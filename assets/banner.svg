@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="ChatGPT, GitHub and Colab workflow banner">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#082f49"/><stop offset=".55" stop-color="#3730a3"/><stop offset="1" stop-color="#7c2d92"/></linearGradient></defs>
+<rect width="1200" height="280" rx="24" fill="url(#g)"/>
+<g fill="none" stroke="#a5b4fc" opacity=".35"><path d="M0 240 Q200 140 400 220 T800 230 T1200 170"/><path d="M0 260 Q240 180 480 240 T960 215 T1200 245"/></g>
+<text x="65" y="97" fill="#fff" font-family="Arial,sans-serif" font-weight="bold" font-size="48">ChatGPT + GitHub + Colab</text>
+<text x="66" y="151" fill="#e0e7ff" font-family="Arial,sans-serif" font-size="25">Build. Test. Version. Visualize. Share.</text>
+<rect x="64" y="187" width="342" height="48" rx="12" fill="#f9a825"/>
+<text x="84" y="218" fill="#14213d" font-family="Arial,sans-serif" font-weight="bold" font-size="23">Synthetic A/B Experiment</text>
+<g transform="translate(907 66)" fill="none" stroke="#fef08a" stroke-width="11" stroke-linecap="round"><path d="M0 100V50M50 100V15M100 100V65M150 100V0"/></g>
+</svg>
