@@ -6,3 +6,4 @@ ipywidgets>=8,<9
 nbformat>=5.9,<6
 nbclient>=0.8,<1
 pytest>=8,<10
+ipykernel>=6.29,<8
